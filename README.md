@@ -1,2 +1,11 @@
-# DU-ICOG
-React frontend for the International Center for Ocean Governance (ICOG) at Dhaka University. Full-stack implementation in progress, starting with responsive header, navbar, and hero banner.
+# ICOG Web Portal
+
+This is the **frontend** of the web portal for the **International Center for Ocean Governance (ICOG)**, Dhaka University. The project will evolve into a **full-stack application** to provide a modern, responsive platform for the center.
+
+## Current Features
+- Responsive header with logo
+- Navigation bar
+- Hero/banner section
+
+## Tech Stack
+- **Frontend:** React, Tailwind CSS
